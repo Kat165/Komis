@@ -1,0 +1,597 @@
+model,marka
+A1,Audi
+A3,Audi
+A4,Audi
+A4 Allroad,Audi
+A5,Audi
+A6,Audi
+A7,Audi
+e-tron GT,Audi
+A8,Audi
+R8,Audi
+Q2,Audi
+Q3,Audi
+Q4 e-tron,Audi
+Q5,Audi
+Q7,Audi
+Q8,Audi
+e-tron,Audi
+i3/i3s,BMW
+i4,BMW
+i4 M50,BMW
+i8,BMW
+iX,BMW
+Z1,BMW
+Z3,BMW
+Z4,BMW
+Z8,BMW
+328,Ferrari
+360,Ferrari
+F430,Ferrari
+456,Ferrari
+458,Ferrari
+488 GTB,Ferrari
+550,Ferrari
+575,Ferrari
+599,Ferrari
+612 Scaglietti,Ferrari
+California,Ferrari
+Enzo,Ferrari
+F12 Berlinetta,Ferrari
+F40,Ferrari
+F50,Ferrari
+FF,Ferrari
+Laferrari,Ferrari
+Scuderia Spider 16M,Ferrari
+Testarossa,Ferrari
+HR-V,Honda
+JAZZ,Honda
+CR-V,Honda
+Accord,Honda
+Airwave,Honda
+Ascot,Honda
+Avancier,Honda
+Beat,Honda
+Capa,Honda
+City,Honda
+Civic,Honda
+Concerto,Honda
+CR-X,Honda
+CR-Z,Honda
+Crossroad,Honda
+Crosstour,Honda
+Domani,Honda
+Edix,Honda
+Element,Honda
+Elysion,Honda
+FCX Clarity,Honda
+Fit Aria,Honda
+Fit,Honda
+FR-V,Honda
+Freed,Honda
+Insight,Honda
+Inspire,Honda
+Integra,Honda
+Legend,Honda
+Life,Honda
+Logo,Honda
+MDX,Honda
+Mobilio,Honda
+NSX,Honda
+Odyssey,Honda
+Orthia,Honda
+Partner,Honda
+Passport,Honda
+Pilot,Honda
+Prelude,Honda
+Quint,Honda
+Rafaga,Honda
+Ridgeline,Honda
+S-MX,Honda
+S2000,Honda
+Saber,Honda
+Shuttle,Honda
+Stepwgn,Honda
+Stream,Honda
+That's,Honda
+Today,Honda
+Torneo,Honda
+Vamos,Honda
+Vigor,Honda
+Z,Honda
+Zest,Honda
+Acty,Honda
+Ascot Inno,Honda
+1300,Honda
+145,Honda
+Amaze,Honda
+Ballade,Honda
+Brio,Honda
+Ciimo,Honda
+Crider,Honda
+Fit Shuttle,Honda
+Lagreat,Honda
+Mobilio Spike,Honda
+MR-V,Honda
+N360,Honda
+N600,Honda
+N Box,Honda
+N-One,Honda
+Quintet,Honda
+S500,Honda
+S600,Honda
+S800,Honda
+Spirior,Honda
+GT-R,Nissan
+Juke,Nissan
+Leaf,Nissan
+Micra,Nissan
+Navara,Nissan
+NV200,Nissan
+Qashqai,Nissan
+Townstar,Nissan
+X-Trail,Nissan
+100NX,Nissan
+200SX,Nissan
+280ZX,Nissan
+300ZX,Nissan
+350Z,Nissan
+370Z,Nissan
+Almera,Nissan
+Almera Tino,Nissan
+Altima,Nissan
+Bluebird,Nissan
+Cherry,Nissan
+Cube,Nissan
+Evalia,Nissan
+Interstar,Nissan
+Kubistar,Nissan
+Laurel,Nissan
+Maxima,Nissan
+Murano,Nissan
+Note,Nissan
+NP300,Nissan
+Pathfinder,Nissan
+Patrol,Nissan
+Pick Up,Nissan
+Pixo,Nissan
+Prairie,Nissan
+President,Nissan
+Primastar,Nissan
+Primera,Nissan
+Pulsar,Nissan
+Quest,Nissan
+Sentra,Nissan
+Serena,Nissan
+Skyline,Nissan
+Stanza,Nissan
+Sunny,Nissan
+Teana,Nissan
+Terrano,Nissan
+Tiida,Nissan
+Titan,Nissan
+Trade,Nissan
+Urvan,Nissan
+Vanette,Nissan
+Xterra,Nissan
+Aerostar,Ford
+Aspire,Ford
+Bronco,Ford
+C-Max,Ford
+Capri,Ford
+Consul,Ford
+Contour,Ford
+Cougar,Ford
+Crown Victoria,Ford
+Econoline,Ford
+EcoSport,Ford
+Edge,Ford
+Escape,Ford
+Escort,Ford
+Everest,Ford
+Excursion,Ford
+Expedition,Ford
+Explorer,Ford
+Fairmont,Ford
+Festiva,Ford
+Fiesta,Ford
+Five Hundred,Ford
+Flex,Ford
+Focus,Ford
+Freestar,Ford
+Freestyle,Ford
+Fusion,Ford
+Galaxy,Ford
+Granada,Ford
+GT,Ford
+Ixion,Ford
+Ka,Ford
+Kuga,Ford
+Laser,Ford
+Maverick,Ford
+Mondeo,Ford
+Mustang,Ford
+Orion,Ford
+Probe,Ford
+Puma,Ford
+Ranger,Ford
+S-Max,Ford
+Scorpio,Ford
+Sierra,Ford
+Taunus,Ford
+Taurus,Ford
+Taurus X,Ford
+Tempo,Ford
+Thunderbird,Ford
+Tourneo Connect,Ford
+Windstar,Ford
+Fairlane,Ford
+Bronco II,Ford
+Tourneo Custom,Ford
+Courier,Ford
+Torino,Ford
+Model A,Ford
+Galaxie,Ford
+Telstar,Ford
+Explorer Sport Trac,Ford
+Transit Custom,Ford
+Ranchero,Ford
+GT40,Ford
+Zephyr,Ford
+Anglia,Ford
+Bantam,Ford
+Comete,Ford
+Corcel,Ford
+Corsair,Ford
+Cortina,Ford
+Del Rey,Ford
+Durango,Ford
+Econovan,Ford
+Elite,Ford
+E-series,Ford
+EXP,Ford
+F-450,Ford
+Falcon,Ford
+Figo,Ford
+Freda,Ford
+F-Series,Ford
+GPW,Ford
+Grand C-Max,Ford
+Ikon,Ford
+Lobo,Ford
+LTD II,Ford
+Mainline,Ford
+Pampa,Ford
+Pilot,Ford
+Pinto,Ford
+Popular,Ford
+Prefect,Ford
+Shelby,Ford
+Territory,Ford
+Transit,Ford
+Transit Connect,Ford
+Vedette,Ford
+Verona,Ford
+Zodiac,Ford
+M151,Ford
+Tourneo,Ford
+Shelby GR-1 Concept,Ford
+Visos,Ford
+Interceptor,Ford
+Beetle,Volkswagen
+Bora,Volkswagen
+Caddy,Volkswagen
+Corrado,Volkswagen
+Derby,Volkswagen
+Eos,Volkswagen
+Fox,Volkswagen
+Golf,Volkswagen
+Gol,Volkswagen
+Iltis,Volkswagen
+Jetta,Volkswagen
+Lupo,Volkswagen
+Multivan,Volkswagen
+Passat,Volkswagen
+Phaeton,Volkswagen
+Pointer,Volkswagen
+Polo,Volkswagen
+Routan,Volkswagen
+Santana,Volkswagen
+Scirocco,Volkswagen
+Sharan,Volkswagen
+Taro,Volkswagen
+Tiguan,Volkswagen
+Touareg,Volkswagen
+Touran,Volkswagen
+Vento,Volkswagen
+Up,Volkswagen
+Amarok,Volkswagen
+California,Volkswagen
+Transporter,Volkswagen
+Caravelle,Volkswagen
+Karmann Ghia,Volkswagen
+Brasilia,Volkswagen
+Citi Golf,Volkswagen
+Clasico,Volkswagen
+Country Buggy,Volkswagen
+Crafter,Volkswagen
+L80,Volkswagen
+Lavida,Volkswagen
+LT,Volkswagen
+Magotan,Volkswagen
+Parati,Volkswagen
+Quantum,Volkswagen
+Rabbit,Volkswagen
+Sagitar,Volkswagen
+Saveiro,Volkswagen
+SP2,Volkswagen
+Suran,Volkswagen
+Voyage,Volkswagen
+Dune Buggy,Volkswagen
+Atlas,Volkswagen
+Typ 1 / Käfer / Garbus,Volkswagen
+CC,Volkswagen
+e-Golf,Volkswagen
+411,Volkswagen
+CrossGolf,Volkswagen
+K70,Volkswagen
+W12 Concept,Volkswagen
+Accent,Hyundai
+Atos,Hyundai
+Avante,Hyundai
+Centennial,Hyundai
+Coupe,Hyundai
+Dynasty,Hyundai
+Elantra,Hyundai
+Equus,Hyundai
+Excel,Hyundai
+Galloper,Hyundai
+Genesis,Hyundai
+Getz,Hyundai
+Grandeur,Hyundai
+i10,Hyundai
+i20,Hyundai
+i30 Wagon,Hyundai
+i40,Hyundai
+ix20,Hyundai
+ix35,Hyundai
+ix55,Hyundai
+Lantra,Hyundai
+Lavita,Hyundai
+Marcia,Hyundai
+Matrix,Hyundai
+Pony,Hyundai
+Santa Fe,Hyundai
+Santamo,Hyundai
+Solaris,Hyundai
+Sonata,Hyundai
+H-1,Hyundai
+Stellar,Hyundai
+Terracan,Hyundai
+Tiburon,Hyundai
+Trajet,Hyundai
+Tucson 1 generacji,Hyundai
+Tuscani,Hyundai
+Veloster,Hyundai
+Veracruz,Hyundai
+Verna,Hyundai
+XG,Hyundai
+Grace,Hyundai
+Creta,Hyundai
+Entourage,Hyundai
+Amica,Hyundai
+Atos Prime,Hyundai
+Atoz,Hyundai
+Avega,Hyundai
+Azera,Hyundai
+Bakkie,Hyundai
+Brio,Hyundai
+Click,Hyundai
+Elantra GT,Hyundai
+Elantra Touring,Hyundai
+Eon,Hyundai
+Grand Avega,Hyundai
+H-100,Hyundai
+H200,Hyundai
+H300,Hyundai
+HB20,Hyundai
+HD35,Hyundai
+HR,Hyundai
+i25,Hyundai
+i45,Hyundai
+i800,Hyundai
+iLoad,Hyundai
+iMax,Hyundai
+Langdong,Hyundai
+Libero,Hyundai
+NF,Hyundai
+Porter,Hyundai
+Presto,Hyundai
+Rohens,Hyundai
+Santro,Hyundai
+Santro Xing,Hyundai
+Satellite,Hyundai
+S-Coupe,Hyundai
+Shehzore,Hyundai
+Sonica,Hyundai
+Starex,Hyundai
+TB,Hyundai
+TQ,Hyundai
+Trajet XG,Hyundai
+HD65,Hyundai
+HD72,Hyundai
+XG350,Hyundai
+Avella,Kia
+Cadenza,Kia
+Capital,Kia
+Carens,Kia
+Carnival,Kia
+Cee'd,Kia
+Cerato,Kia
+Clarus,Kia
+Concord,Kia
+Elan,Kia
+Enterprise,Kia
+Joice,Kia
+Magentis,Kia
+Borrego,Kia
+Opirus,Kia
+Optima,Kia
+Picanto,Kia
+Potentia,Kia
+Pride,Kia
+Quoris,Kia
+Ray,Kia
+Retona,Kia
+Rio,Kia
+Sedona,Kia
+Sephia,Kia
+Shuma,Kia
+Sorento,Kia
+Soul,Kia
+Spectra,Kia
+Sportage,Kia
+Stonic,Kia
+Venga,Kia
+Visto,Kia
+X-Trek,Kia
+Amanti,Kia
+Besta,Kia
+Bongo,Kia
+Brisa,Kia
+Carstar,Kia
+Credos,Kia
+Forte,Kia
+K2,Kia
+K3,Kia
+K5,Kia
+K7,Kia
+K9,Kia
+Lotze,Kia
+Mohave,Kia
+Morning,Kia
+Parktown,Kia
+Pregio,Kia
+Rondo,Kia
+Towner,Kia
+E-Type,Jaguar
+F-Type,Jaguar
+S-Type,Jaguar
+X-Type,Jaguar
+XF,Jaguar
+XE,Jaguar
+XJ,Jaguar
+XJS,Jaguar
+XK,Jaguar
+XE,Jaguar
+F-Pace,Jaguar
+I-Pace,Jaguar
+Aventador SVJ Roadster,Lamborghini
+Countach,Lamborghini
+Diablo,Lamborghini
+Espada,Lamborghini
+Gallardo,Lamborghini
+Huracán EVO Spyder,Lamborghini
+Jalpa,Lamborghini
+Jarama,Lamborghini
+LM002,Lamborghini
+Murciélago,Lamborghini
+Reventon,Lamborghini
+Urraco,Lamborghini
+Sesto Elemento,Lamborghini
+350GT,Lamborghini
+400GT,Lamborghini
+Islero,Lamborghini
+Miura,Lamborghini
+Silhouette,Lamborghini
+Centenario,Lamborghini
+P140,Lamborghini
+3000 GT,Mitsubishi
+Airtrek,Mitsubishi
+Aspire,Mitsubishi
+ASX,Mitsubishi
+Carisma,Mitsubishi
+Challenger,Mitsubishi
+Chariot,Mitsubishi
+Colt,Mitsubishi
+Cordia,Mitsubishi
+Debonair,Mitsubishi
+Delica,Mitsubishi
+Diamante,Mitsubishi
+Dingo,Mitsubishi
+Dion,Mitsubishi
+Eclipse,Mitsubishi
+EK Wagon,Mitsubishi
+Emeraude,Mitsubishi
+Endeavor,Mitsubishi
+Eterna,Mitsubishi
+FTO,Mitsubishi
+Galant,Mitsubishi
+Grandis,Mitsubishi
+GTO,Mitsubishi
+i,Mitsubishi
+i-MiEV,Mitsubishi
+Jeep,Mitsubishi
+L200,Mitsubishi
+Lancer Evolution,Mitsubishi
+Lancer,Mitsubishi
+Legnum,Mitsubishi
+Libero,Mitsubishi
+Minica,Mitsubishi
+Mirage,Mitsubishi
+Montero,Mitsubishi
+Montero Sport,Mitsubishi
+Outlander,Mitsubishi
+Pajero,Mitsubishi
+Pajero iO,Mitsubishi
+Pajero Junior,Mitsubishi
+Pajero Mini,Mitsubishi
+Pajero Pinin,Mitsubishi
+Pajero Sport,Mitsubishi
+Proudia,Mitsubishi
+Raider,Mitsubishi
+RVR,Mitsubishi
+Sapporo,Mitsubishi
+Sigma,Mitsubishi
+Space Gear,Mitsubishi
+Space Runner,Mitsubishi
+Space Star,Mitsubishi
+Space Wagon,Mitsubishi
+Starion,Mitsubishi
+Toppo,Mitsubishi
+Town BOX,Mitsubishi
+Tredia,Mitsubishi
+Minicab,Mitsubishi
+Strada,Mitsubishi
+Dignity,Mitsubishi
+380,Mitsubishi
+Adventure,Mitsubishi
+Canter,Mitsubishi
+Cedia,Mitsubishi
+Expo,Mitsubishi
+Freeca,Mitsubishi
+Fusion,Mitsubishi
+Galant Fortis,Mitsubishi
+Grunder,Mitsubishi
+L100,Mitsubishi
+L300,Mitsubishi
+L400,Mitsubishi
+L2000,Mitsubishi
+Lancer Fiore,Mitsubishi
+Magna,Mitsubishi
+Magnum,Mitsubishi
+Maven,Mitsubishi
+Mighty Max,Mitsubishi
+Montero iO,Mitsubishi
+Nimbus,Mitsubishi
+Pinin,Mitsubishi
+Precis,Mitsubishi
+Savrin,Mitsubishi
+Scorpion,Mitsubishi
+Shogun Pinin,Mitsubishi
+Shogun Sport,Mitsubishi
+Towny,Mitsubishi
+Verada,Mitsubishi
+Warrior,Mitsubishi
+Zinger,Mitsubishi
+021,Jelcz

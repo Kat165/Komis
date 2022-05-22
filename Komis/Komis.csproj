@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8FE3C43-BCDA-4074-993D-1877989AB3FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Komis</RootNamespace>
+    <AssemblyName>Komis</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Car.cs" />
+    <Compile Include="CarList.cs" />
+    <Compile Include="DCars.cs" />
+    <Compile Include="Dodaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj.Designer.cs">
+      <DependentUpon>Dodaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezerwuj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rezerwuj.Designer.cs">
+      <DependentUpon>Rezerwuj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Szukaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Szukaj.Designer.cs">
+      <DependentUpon>Szukaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zdjecie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zdjecie.Designer.cs">
+      <DependentUpon>Zdjecie.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dodaj.resx">
+      <DependentUpon>Dodaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Rezerwuj.resx">
+      <DependentUpon>Rezerwuj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Szukaj.resx">
+      <DependentUpon>Szukaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zdjecie.resx">
+      <DependentUpon>Zdjecie.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="pliki\allcars.csv" />
+    <None Include="pliki\carscsv.csv" />
+    <None Include="pliki\terminy.csv" />
+    <None Include="pliki\zdjecia.csv" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pliki\zdjecia\0.jpg" />
+    <Content Include="pliki\zdjecia\1.jpg" />
+    <Content Include="pliki\zdjecia\10.jpg" />
+    <Content Include="pliki\zdjecia\11.jpg" />
+    <Content Include="pliki\zdjecia\12.jpg" />
+    <Content Include="pliki\zdjecia\13.jpg" />
+    <Content Include="pliki\zdjecia\14.jpg" />
+    <Content Include="pliki\zdjecia\15.jpg" />
+    <Content Include="pliki\zdjecia\16.jpg" />
+    <Content Include="pliki\zdjecia\17.jpg" />
+    <Content Include="pliki\zdjecia\18.jpg" />
+    <Content Include="pliki\zdjecia\19.jpg" />
+    <Content Include="pliki\zdjecia\2.jpg" />
+    <Content Include="pliki\zdjecia\20.jpg" />
+    <Content Include="pliki\zdjecia\21.jpg" />
+    <Content Include="pliki\zdjecia\22.jpg" />
+    <Content Include="pliki\zdjecia\23.jpg" />
+    <Content Include="pliki\zdjecia\24.jpg" />
+    <Content Include="pliki\zdjecia\25.jpg" />
+    <Content Include="pliki\zdjecia\26.jpg" />
+    <Content Include="pliki\zdjecia\27.jpg" />
+    <Content Include="pliki\zdjecia\28.jpg" />
+    <Content Include="pliki\zdjecia\29.jpg" />
+    <Content Include="pliki\zdjecia\3.jpg" />
+    <Content Include="pliki\zdjecia\30.jpg" />
+    <Content Include="pliki\zdjecia\31.jpg" />
+    <Content Include="pliki\zdjecia\32.jpg" />
+    <Content Include="pliki\zdjecia\33.jpg" />
+    <Content Include="pliki\zdjecia\34.jpg" />
+    <Content Include="pliki\zdjecia\35.jpg" />
+    <Content Include="pliki\zdjecia\36.jpg" />
+    <Content Include="pliki\zdjecia\37.jpg" />
+    <Content Include="pliki\zdjecia\38.jpg" />
+    <Content Include="pliki\zdjecia\39.jpg" />
+    <Content Include="pliki\zdjecia\4.jpg" />
+    <Content Include="pliki\zdjecia\40.jpg" />
+    <Content Include="pliki\zdjecia\41.jpg" />
+    <Content Include="pliki\zdjecia\42.jpg" />
+    <Content Include="pliki\zdjecia\43.jpg" />
+    <Content Include="pliki\zdjecia\44.jpg" />
+    <Content Include="pliki\zdjecia\45.jpg" />
+    <Content Include="pliki\zdjecia\46.jpg" />
+    <Content Include="pliki\zdjecia\47.jpg" />
+    <Content Include="pliki\zdjecia\48.jpg" />
+    <Content Include="pliki\zdjecia\49.jpg" />
+    <Content Include="pliki\zdjecia\5.jpg" />
+    <Content Include="pliki\zdjecia\50.jpg" />
+    <Content Include="pliki\zdjecia\51.jpg" />
+    <Content Include="pliki\zdjecia\6.jpg" />
+    <Content Include="pliki\zdjecia\7.jpg" />
+    <Content Include="pliki\zdjecia\8.jpg" />
+    <Content Include="pliki\zdjecia\9.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

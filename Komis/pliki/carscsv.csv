@@ -1,0 +1,55 @@
+Marka,Model,Kolor,Uzywany,Przebieg,Paliwo,Cena,Rok_produkcji,Uszkodzony,ID
+BMW,i3/i3s,Zielony,Nie,0,Elektryczny,169700,2021,Nie,0
+BMW,i4,Bialy,Nie,0,Elektryczny,272000,2021,Nie,1
+BMW,i4 M50,Niebieski,Nie,0,Elektryczny,340900,2021,Nie,2
+BMW,iX,Czerwony,Nie,0,Elektryczny,378300,2021,Nie,3
+Ferrari,328,Czerwony,Tak,194,Benzyna,200000,1989,Nie,4
+Ferrari,360,Czerwony,Tak,14000,Benzyna,320000,2003,Nie,5
+Ferrari,F430,Czerwony,Tak,1650,Benzyna,419900,2010,Nie,6
+Ferrari,456,Czarny,Tak,112000,Benzyna,115000,1994,Nie,7
+Ferrari,458,Czerwony,Tak,40000,Benzyna,780000,2011,Nie,8
+Ferrari,488 GTB,Czerwony,Tak,19000,Benzyna,1299000,2019,Nie,9
+Ferrari,550,Czerwony,Tak,19000,Benzyna,1299000,2019,Nie,10
+Honda,HR-V,Bialy,Nie,0,Hybryda,129500,2021,Nie,11
+Honda,JAZZ,Bialy,Nie,0,Hybryda,96800,2021,Nie,12
+Honda,CR-V,Bialy,Nie,0,Hybryda,151300,2021,Nie,13
+Nissan,Micra,Czerwony,Tak,145500,Benzyna,6400,2003,Nie,14
+Nissan,Juke,Czarny,Nie,0,Benzyna,129900,2022,Nie,15
+Nissan,Leaf,Bialy,Nie,0,Elektryczny,129900,2022,Nie,16
+Ford,Fiesta,Niebieski,Tak,76551,Benzyna,33100,2014,Nie,17
+Ford,Kuga,Niebieski,Tak,131029,Diesel,55900,2015,Nie,18
+Ford,Focus,Bialy,Tak,100104,Benzyna,48800,2015,Nie,19
+Audi,A1,Czarny,Tak,17124,Benzyna,116900,2019,Nie,20
+Audi,A3,Czarny,Tak,119723,Diesel,67800,2015,Nie,21
+Audi,A4,Bialy,Tak,112602,Diesel,112700,2018,Nie,22
+Audi,A5,Bialy,Tak,112602,Benzyna,112700,2019,Nie,23
+Volkswagen,Arteon,Srebrny,Tak,69299,Diesel,125900,2017,Nie,24
+Volkswagen,Beetle,Szary,Tak,108964,Diesel,57000,2015,Nie,25
+Hyundai,i10,Szary,Tak,71724,Benzyna,33300,2014,Nie,26
+Hyundai,i30 Wagon,Szary,Nie,0,Benzyna,75000,2021,Nie,27
+Hyundai,i30 Wagon,Czerwony,Nie,0,Benzyna,75000,2021,Nie,28
+Kia,Picanto,Szary,Nie,0,Hybryda,47900,2021,Nie,29
+Kia,Picanto,Niebieski,Nie,0,Hybryda,47900,2021,Nie,30
+Kia,Picanto,Bialy,Nie,0,Hybryda,47900,2021,Nie,31
+Kia,Rio,Szary,Nie,0,Hybryda,57900,2021,Nie,32
+Kia,Rio,Niebieski,Nie,0,Hybryda,57900,2021,Nie,33
+Kia,Stonic,Zolty,Nie,0,Hybryda,68900,2021,Nie,34
+Kia,Stonic,Niebieski,Nie,0,Hybryda,68900,2021,Nie,35
+Jaguar,I-Pace,Bialy,Nie,5,Elektryczny,389000,2021,Nie,36
+Jaguar,I-Pace,Szary,Nie,5,Elektryczny,357700,2021,Nie,37
+Jaguar,XE,Szary,Nie,5,Benzyna,220000,2021,Nie,38
+Jaguar,XE,Czerwony,Nie,5,Benzyna,220000,2021,Nie,39
+Jaguar,XF,Czarny,Tak,244000,Diesel,35900,2011,Nie,40
+Jaguar,XF,Bialy,Tak,188000,Benzyna,53500,2016,Nie,41
+Lamborghini,Aventador SVJ Roadster,Brazowy,Tak,5155,Benzyna,3377000,2021,Nie,42
+Lamborghini,Aventador SVJ Roadster,Fioletowy,Tak,576,Benzyna,3226189,2020,Nie,43
+Lamborghini,Huracan EVO Spyder,Zielony,Tak,10000,Benzyna,560000,2020,Nie,44
+Lamborghini,Huracan EVO Spyder,Niebieski,Tak,6255,Benzyna,1676000,2020,Nie,45
+Mitsubishi,Space Star,Niebieski,Tak,115501,Benzyna,25900,2014,Nie,46
+Mitsubishi,Space Star,Zolty,Tak,115501,Benzyna,25900,2014,Nie,47
+Mitsubishi,Space Star,Szary,Tak,115501,Benzyna,26900,2015,Nie,48
+Mitsubishi,L2000,Bialy,Tak,151500,Diesel,103000,2016,Nie,49
+Mitsubishi,L2000,Szary,Tak,180000,Diesel,19900,2009,Tak,50
+Jelcz,021,Czerwony,Tak,500000,Diesel,1,1967,Tak,51
+Lamborghini,Silhouette,Pomaranczowy,Tak,23,Gaz,23,2007,Nie,52
+Nissan,Evalia,Zolty,Tak,22,Gaz,5677,2014,Nie,53
